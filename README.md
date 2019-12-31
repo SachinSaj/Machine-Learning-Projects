@@ -5,3 +5,4 @@
 4. Project 4 : Loan Data Classification using Decision Tree and Random Forest and achieved 99.5 % classification accuracy
 5. Project 5 : SMS Spam Message Classification using MultinomialNB and Logistic Regression and achieved 98.50% classification accuracy. 
 6. Project 6 : Breast Cancer Classification using SVM with Principle Component Analysis (PCA) and KFold Cross Validation and achieved a best accuracy of 96.05%
+7. Project 7 : KMeans Clustering on IRIS Dataset
